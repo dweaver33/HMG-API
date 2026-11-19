@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- Add optional PE03/PE12 stock navigation observation hook points for opaque
+  byte-array payloads. Map confirmed builds explicitly; other builds list the
+  points as missing pending stock checks. Payload semantics remain unassigned.
+
 - Add the Palisade USA 260507 hook map: 343 points checked in the November 5
   owner Car Report and eight more resolved off-car. Keep the map marked `mapped`
   and explicitly list the 40 newer, unresolved points as missing.

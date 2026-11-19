@@ -1733,6 +1733,8 @@
   "framework.mode_manager_service.intercept_key_queueing": "found",
   "framework.navigation_cluster": "found",
   "framework.navigation_cluster.new": "found",
+  "framework.navigation_cluster.update_hu_clu_pe03": "found",
+  "framework.navigation_cluster.update_hu_clu_pe12": "found",
   "framework.navigation_cluster.update_lane_info": "found",
   "framework.navigation_cluster.update_remain_dis": "found",
   "framework.navigation_cluster.update_tbt_info": "found",
